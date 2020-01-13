@@ -1,6 +1,6 @@
 const webDesigner = {
   name: 'YOUR NAME',
-  yearsAlive: [1992,2018],
+  yearsAlive: [1992,2020],
   imgSrc: 'user.jpg',
   skills: ['Photoshop', 'HTML', 'CSS', 'JS'],
   diet: {
