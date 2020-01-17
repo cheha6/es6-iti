@@ -22,7 +22,7 @@ const webDesigner = {
 /*add Those extra skills to the developmentskills array ['ES6', 'ES2015'] and add all of them into a new updatedDevSkills const*/
 
 
-/*destructure the diet array and using new ES6 write a function that returns drinks that contain the letter t*/
+/*destructure the diet object and using new ES6 write a function that returns drinks that contain the letter t*/
 
 
 
